@@ -1,0 +1,52 @@
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Advanced Collection Function.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\App.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Arrays.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Boolean.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Break dan Continue.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Characters.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Collections Operations.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Constructor.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Coroutines Builder.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\DataTypes.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Destructuring Declarations.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Enumeration.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Expressions dan Statements.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Extensions.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\For Loop.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Function Inside Function.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Functions.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\HelloKotlin!.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Higher-Order Function.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\IfExpressions.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Interfaces.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Lambda with receiver.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Lambda.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Library Helper.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Maps.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Member References.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Membuat Kelas.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Memulai Coroutines.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Memulai Coroutines2.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Mendeklarasikan Fungsi Generic.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Menerapkan Exception Handling.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Named dan Default Argument.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Nullable Receiver.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Nullable Types.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Numbers.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Object Everywhere.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Overloading.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Penggunaan Data Class.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Properties.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Property Delegation.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Range.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Recursion.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Safe Calls dan Elvis Operator.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Scope Function with Lambda Receiver.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Sequences.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Sets.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\String Template.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Strings.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Vararg Argument.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\Variance.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\When Expressions.kt
+E:\@Reza Achmad Naufal\kotlin-starter\src\main\kotlin\While dan Do While.kt
